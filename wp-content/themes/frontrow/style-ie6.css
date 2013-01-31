@@ -1,0 +1,11 @@
+/* IE6 or less CSS */
+
+#primary {margin:0px;padding:0px 18px;}
+
+#fpslider-prevnext a,
+.nm-gallery-prevnext a,
+#nm-slides-prevnext a {background-image:url(images/icon-prev-ie6.png);}
+
+#fpslider-prevnext a#fpslider-next,
+.nm-gallery-prevnext a.nm-gallery-next,
+#nm-slides-prevnext a#nm-slides-next {background-image:url(images/icon-next-ie6.png);}

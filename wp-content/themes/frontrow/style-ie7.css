@@ -1,0 +1,5 @@
+/* IE7 or less CSS */
+
+#header #searchform .field {height:14px;}
+
+#primary-nav ul ul {border:1px solid #ddd;border-top:0px none transparent;}
